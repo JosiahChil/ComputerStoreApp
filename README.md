@@ -51,7 +51,6 @@ Discontinued|false
 3/21/25 | Customer View | Customer view for customer shopping
 4/19/25 | Manager View | Manager view for managing store 
 4/20/25 | Polish/Final Submission | Final submission of project
-[etc.] | [etc.] | [etc.]
 
 ### Development Environment
 
@@ -80,16 +79,13 @@ Include any essential instructions for:
 
 - Customer View https://drive.google.com/file/d/1SEmIahm91AmuuoS02Wr1JXjdfr2lN63_/view?usp=drive_link
 - Manager View https://drive.google.com/file/d/12VGI-Gb-_Ze0LJY8C_66u4RY112-k-Yi/view?usp=drive_link
-- Video Resume [Must Update with URL at each Pull Request approval]
-- Final Client Demonstration Video [Must Update with URL at each Pull Request approval]
-- URL for any other specific videos for this product [Must Update with URL at each Pull Request approval, if applicable]
 
 
 ### Contact 
  Contact | Information
 --------|------
 Name | Josiah Childress
-Email | jcchildress84320@mymail.tstc.edu
+Email | Josiahchil@gmail.com
 
 
 ### [License](/LICENSE) 
